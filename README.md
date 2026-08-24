@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm currently studing information technology in Oulu university Applied Sciences (Oamk).
+
+
+## Technologies
+-
+
+## Projects
+
+### Arduino Speed tester
+### Riihimaatti - ATM
+### Movie database
 
 <!--
 **PaulaKaa/PaulaKaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
