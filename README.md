@@ -4,15 +4,15 @@ I'm currently studing information technology in Oulu university Applied Sciences
 
 
 ## Technologies
--REST API
--TypeScript
--React Native
--JavaScript
--HTML
--C (Programming Language)
--Python
--Cascading Style Sheet (CSS)
--Node.js
+- REST API
+- TypeScript
+- React Native
+- JavaScript
+- HTML
+- C (Programming Language)
+- Python
+- Cascading Style Sheet (CSS)
+- Node.js
 
 ## Projects
 
