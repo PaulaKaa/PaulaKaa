@@ -1,10 +1,18 @@
 # Hi there 👋
 
-I'm currently studing information technology in Oulu university Applied Sciences (Oamk).
+I'm currently studing information technology in Oulu university Applied Sciences [Oamk](https://oamk.fi/en/).
 
 
 ## Technologies
--
+-REST API
+-TypeScript
+-React Native
+-JavaScript
+-HTML
+-C (Programming Language)
+-Python
+-Cascading Style Sheet (CSS)
+-Node.js
 
 ## Projects
 
